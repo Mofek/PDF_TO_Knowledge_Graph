@@ -1,0 +1,12 @@
+!pip install --upgrade --quiet  langchain langchain-community langchain-openai langchain-ollama langchain-experimental neo4j tiktoken yfiles_jupyter_graphs python-dotenv
+!pip install json-repair
+!pip install --upgrade --quiet  langchain-openai langchain-community
+!pip install  py2neo
+!pip install PyPDF2
+!pip install neo4j
+!pip install pandas
+!pip install langchain
+!pip install pydantic
+!pip install faiss-gpu
+
+

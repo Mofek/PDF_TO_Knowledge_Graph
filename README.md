@@ -1,4 +1,4 @@
-rogram Overview
+program Overview
 This program automates the retrieval of open-access articles from PubMed Central (PMC), extracts PDF files from each downloaded package, and transforms the extracted text into a knowledge graph. The process involves:
 
 Searching PMC for articles matching specified criteria (e.g., open-access or containing certain keywords).
